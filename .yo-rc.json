@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipstermonolithapp",
+    "packageName": "com.sella",
+    "packageFolder": "com/sella",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "ZjgxNGY4ZjljOWEyN2FmNmM4MWZiYjQyODI1ZmNiMzZjZDg5ZTY0ZTk0ZjE5NDI3NTk2NzMxZmEyMmQ3NjBiMWVjOGFlZWI3MWNiMzZkODhjZDk2Y2ZjNjMyYTI1ZjUzOGE1MWE0ZGIwOTQxNGQxMWE4MTVmMGRjNDg2NzBkM2E=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sendhilmohan",
+  "repository-name": "jhipstermonolithapp"
+}
